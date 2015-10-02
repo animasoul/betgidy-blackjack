@@ -13,3 +13,6 @@ Access with /developer/blackjack/ route
 	Grunt build
 
 The production version will be available from /blackjack/
+
+## License ##
+MIT, see LICENSE.txt
